@@ -1,0 +1,55 @@
+:root{
+    --main-color : #59316b;
+  }
+  .dropdown-menu {
+    max-height: 200px;
+    overflow-y: auto;
+  }
+.btn-custom:hover {
+  background-color: #ffffff;
+  color: #59316b;
+}
+.navbar-main {
+    background-color:var(--main-color);
+}
+.navabar-button{
+    outline: none; 
+    box-shadow: none;
+}
+
+.main-section{
+    background-color: #59316b;
+    height: 75vh;
+}
+.section-1{
+    color: var(--main-color);
+}
+.section-2{
+    color: var(--main-color);
+}
+.section-3{
+    color: var(--main-color);
+}
+.section-4{
+    color: var(--main-color);
+}
+.section-5{
+    color: var(--main-color);
+}
+.about{
+    color: var(--main-color);
+}
+footer{
+    background-color: var(--main-color);
+}
+.footer-button-1{
+    color:var(--main-color);
+}
+.last-button{
+    background-color: #3c2148;
+    border-color: #351d3f;
+    box-shadow: 0 0 0 .2rem rgba(89, 49, 107, .5)
+}
+.last-dropdown{
+    background-color: #6c3088;
+}
